@@ -1,0 +1,31 @@
+_repo: The-Amateur-Garden_19408
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cable, George Washington
+    alias: Cable, G. W. (George Washington)
+    birthdate: 1844
+    deathdate: 1925
+    gutenberg_agent_id: '3163'
+    url: http://www.gutenberg.org/2009/agents/3163
+    wikipedia: http://en.wikipedia.org/wiki/George_Washington_Cable
+description: ''
+gutenberg_bookshelf: Horticulture
+gutenberg_issued: '2006-09-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19408'
+  lccn: '14017878'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Landscape gardening'
+- !lcc 'SB'
+- !lcsh 'Gardens'
+title: The Amateur Garden
+url: http://www.gutenberg.org/ebooks/19408
